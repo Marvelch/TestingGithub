@@ -1,0 +1,22 @@
+{
+  "name": "lahanku",
+  "version": "1.0.0",
+  "description": "Find The Best Land",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvelch/TestingGithub.git"
+  },
+  "keywords": [
+    "Land"
+  ],
+  "author": "Marvel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marvelch/TestingGithub/issues"
+  },
+  "homepage": "https://github.com/Marvelch/TestingGithub#readme"
+}
