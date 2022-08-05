@@ -1,5 +1,5 @@
-# *Mulaikerja.com App* 
-###### *Membantu mempertemukan para pekerja dan setiap client yang membutuhkan jasa mereka melalui web / app Mulaikerja.com*
+# *akumulai.com app* 
+###### *Membantu mempertemukan para pekerja dan setiap client yang membutuhkan jasa mereka melalui web / app Akumulai.com*
 <hr>
 <p>Install <a href="https://nodejs.org/en/download/">Node Js v17.6.0</a> </p>
 <p>Run command `Node file-name.js`</p>
